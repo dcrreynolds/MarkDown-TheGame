@@ -1,5 +1,6 @@
-# MarkDown The Game: Mark's Downfall
 #### Home
+>
+# MarkDown The Game: Mark's Downfall
 [How to play](#How-to-play)
 <br/>
 <br/>
@@ -31,6 +32,7 @@
 <br/>
 <br/>
 <br/>
+>
 # How-to-play
 
 1. Read the prompt

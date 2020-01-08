@@ -32,3 +32,21 @@
 <br/>
 <br/>
 # How-to-play
+
+1. Read the prompt
+2. Select your action
+3. Live with your results
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>

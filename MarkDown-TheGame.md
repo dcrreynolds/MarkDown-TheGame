@@ -1,7 +1,6 @@
-# MarkDown The Game
-## Mark's Downfall
+# MarkDown The Game: Mark's Downfall
 
-[Custom foo description](#foo)
+[How to play](#How-to-play)
 <br/>
 <br/>
 <br/>
@@ -32,4 +31,4 @@
 <br/>
 <br/>
 <br/>
-# Foo
+# How-to-play
